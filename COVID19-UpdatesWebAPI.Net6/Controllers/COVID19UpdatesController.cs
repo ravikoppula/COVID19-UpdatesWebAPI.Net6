@@ -31,6 +31,7 @@ namespace COVID19_UpdatesWebAPI.Net6.Controllers
 
         #region Set Input Parms
 
+        [Route("")]
         [HttpGet("{id}")]
         [Route("getcovid19updates")]
         public ActionResult<IEnumerable<COVID19UpdatesVM>> GetCOVID19Updates(string? country, string? state, DateTime lastUpdatedDate)

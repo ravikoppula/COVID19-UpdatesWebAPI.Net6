@@ -18,7 +18,8 @@ namespace COVID19_UpdatesWebAPI.Net6
         public string? Combined_Key { get; set; }
         public string? Incident_Rate { get; set; }
         public string? Case_Fatality_Ratio { get; set; }
-        public DateTime LastUpdatedDate { get; set; }
+        [DataType(DataType.DateTime)]
+        public DateTime LastUpdatedDate { get; set; } = default(DateTime);
 
     }
 
@@ -31,7 +32,7 @@ namespace COVID19_UpdatesWebAPI.Net6
         public string? Recovered { get; set; }
         public string? Active { get; set; }
         [DataType(DataType.DateTime)]
-        public DateTime LastUpdatedDate { get; set; }
+        public DateTime LastUpdatedDate { get; set; } = default(DateTime);
     }
 
 }

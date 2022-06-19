@@ -1,4 +1,5 @@
 using COVID19_UpdatesWebAPI.Net6.Services;
+using Xunit;
 
 namespace COVID19_UpdatesWebAPI.Net6.XUnitTest
 {
