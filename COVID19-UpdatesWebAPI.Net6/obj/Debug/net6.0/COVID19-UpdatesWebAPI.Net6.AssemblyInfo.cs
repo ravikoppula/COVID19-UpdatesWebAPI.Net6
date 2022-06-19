@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f9c0be3c-3c21-40cb-ac5e-cd7ed40fa54b")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("COVID19-UpdatesWebAPI.Net6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

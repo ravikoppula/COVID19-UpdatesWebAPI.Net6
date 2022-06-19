@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "m3/Wnb/tMqe7MLS8lvyPS1UHqZBt+tE1YiakNbgEfO4F56GR+mVf6vAcHe2TfWcw6hMk7GARDkGIGzbeQ6RKGw==",
+  "dgSpecHash": "KmtvdaBbfT31dshYZaciTBwnc0FRU6wYGzlMoHRik5K2tvMSN4bjgZxQkdm1LIRxCEP3LHSVGORCG0OntLtAsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\KokilaRaman\\Documents\\sourcecode\\COVID19-UpdatesWebAPI.Net6\\COVID19-UpdatesWebAPI.Net6.XUnitTest\\COVID19-UpdatesWebAPI.Net6.XUnitTest.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\KokilaRaman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\KokilaRaman\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\KokilaRaman\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\KokilaRaman\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\KokilaRaman\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\KokilaRaman\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.6\\microsoft.visualstudio.web.codegeneration.6.0.6.nupkg.sha512",
     "C:\\Users\\KokilaRaman\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.6\\microsoft.visualstudio.web.codegeneration.core.6.0.6.nupkg.sha512",
